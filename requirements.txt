@@ -1,0 +1,6 @@
+#./requirements.txt
+fastapi
+uvicorn
+pytest
+isNullOrEmpty
+sqlalchemy
